@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gameclub11-qalS.aternos.me",
-    "port": 30139,
+    "ip": "46.224.7.62",
+    "port": 25690,
     "version": "1.8.8"
   },
   "position": {
