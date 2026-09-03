@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "playgameclub.falix.pro",
-    "port": 27022,
+    "ip": "playgameclub.aternos.me",
+    "port": 22440,
     "version": "1.8.8"
   },
   "position": {
