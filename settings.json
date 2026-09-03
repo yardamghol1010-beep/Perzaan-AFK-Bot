@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dynamic-6.magmanode.com",
-    "port": 25812,
+    "ip": "playgameclub.falix.pro",
+    "port": 27022,
     "version": "1.8.8"
   },
   "position": {
