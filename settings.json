@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "os_taha20",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "46.224.7.62",
-    "port": 25690,
+    "ip": "dynamic-6.magmanode.com",
+    "port": 25812,
     "version": "1.8.8"
   },
   "position": {
